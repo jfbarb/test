@@ -1,53 +1,5 @@
 #EXTM3U
-#EXTINF:-1,FR-CA | CANAL D
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13858.m3u8
-#EXTINF:-1,FR-CA | CASA
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13859.m3u8
-#EXTINF:-1,FR-CA | CPAC
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13854.m3u8
-#EXTINF:-1,FR-CA | DISNEY JR
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13861.m3u8
-#EXTINF:-1,FR-CA | EVASION
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13862.m3u8
-#EXTINF:-1,FR-CA | HISTOIRE
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13863.m3u8
-#EXTINF:-1,FR-CA | ICI MONTREAL
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13865.m3u8
-#EXTINF:-1,FR-CA | ICI RDI
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13866.m3u8
-#EXTINF:-1,FR-CA | ICI VANCOUVER
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13867.m3u8
-#EXTINF:-1,FR-CA | LCN
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13868.m3u8
-#EXTINF:-1,FR-CA | MAX
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13280.m3u8
-#EXTINF:-1,FR-CA | MUSIC PLUS
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/19110.m3u8
-#EXTINF:-1,FR-CA | TELE QUEBEC
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13872.m3u8
-#EXTINF:-1,FR-CA | TELEMAGINO
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/19111.m3u8
-#EXTINF:-1,FR-CA | TELETOON
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13437.m3u8
-#EXTINF:-1,FR-CA | TELETOON EAST
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13853.m3u8
-#EXTINF:-1,FR-CA | TVA MONTREAL
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/23802.m3u8
-#EXTINF:-1,FR-CA | UNIS TV
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13850.m3u8
-#EXTINF:-1,FR-CA | VIE
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/19112.m3u8
-#EXTINF:-1,FR-CA | YOOPA
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/19113.m3u8
-#EXTINF:-1,FR-CA | ZESTE
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/19114.m3u8
-#EXTINF:-1,FR-CA | RDS
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13869.m3u8
-#EXTINF:-1,FR-CA | RDS 2
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13870.m3u8
-#EXTINF:-1,FR-CA | RDS INFO
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/13871.m3u8
-#EXTINF:-1,FR-CA | TVA SPORTS
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/4812.m3u8
-#EXTINF:-1,FR-CA | TVA SPORTS 2
-http://loginto.live:80/live/Qfyt57Hhv/49F74seuaI/4811.m3u8
+#EXTINF:-1,CA: TVA  Sports 2 | HD
+http://hdonline.ml:80/y2/y2/2283
+#EXTINF:-1,CA: TVA Sports | HD
+http://hdonline.ml:80/y2/y2/2284
